@@ -82,7 +82,7 @@ let all_product = [
     category: "women",
     image: p6_img,
     new_price: 85.0,
-    old_price: 120.5,
+    old_price: 125.5,
   },
   {
     id: 7,
@@ -98,7 +98,7 @@ let all_product = [
     category: "women",
     image: p8_img,
     new_price: 85.0,
-    old_price: 120.5,
+    old_price: 128.5,
   },
   {
     id: 9,
@@ -114,7 +114,7 @@ let all_product = [
     category: "women",
     image: p10_img,
     new_price: 85.0,
-    old_price: 120.5,
+    old_price: 140.5,
   },
   {
     id: 11,
@@ -145,7 +145,7 @@ let all_product = [
     name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
     category: "men",
     image: p14_img,
-    new_price: 85.0,
+    new_price: 80.0,
     old_price: 120.5,
   },
   {
@@ -161,7 +161,7 @@ let all_product = [
     name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
     category: "men",
     image: p16_img,
-    new_price: 85.0,
+    new_price: 90.0,
     old_price: 120.5,
   },
   {
@@ -169,7 +169,7 @@ let all_product = [
     name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
     category: "men",
     image: p17_img,
-    new_price: 85.0,
+    new_price: 88.0,
     old_price: 120.5,
   },
   {
@@ -177,7 +177,7 @@ let all_product = [
     name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
     category: "men",
     image: p18_img,
-    new_price: 85.0,
+    new_price: 95.0,
     old_price: 120.5,
   },
   {
@@ -193,7 +193,7 @@ let all_product = [
     name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
     category: "men",
     image: p20_img,
-    new_price: 85.0,
+    new_price: 82.0,
     old_price: 120.5,
   },
   {
@@ -209,7 +209,7 @@ let all_product = [
     name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
     category: "men",
     image: p22_img,
-    new_price: 85.0,
+    new_price: 83.0,
     old_price: 120.5,
   },
   {
@@ -225,7 +225,7 @@ let all_product = [
     name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
     category: "men",
     image: p24_img,
-    new_price: 85.0,
+    new_price: 80.0,
     old_price: 120.5,
   },
   {
@@ -241,7 +241,7 @@ let all_product = [
     name: "Boys Orange Colourblocked Hooded Sweatshirt",
     category: "kid",
     image: p26_img,
-    new_price: 85.0,
+    new_price: 89.0,
     old_price: 120.5,
   },
   {
@@ -257,7 +257,7 @@ let all_product = [
     name: "Boys Orange Colourblocked Hooded Sweatshirt",
     category: "kid",
     image: p28_img,
-    new_price: 85.0,
+    new_price: 83.0,
     old_price: 120.5,
   },
   {
@@ -281,7 +281,7 @@ let all_product = [
     name: "Boys Orange Colourblocked Hooded Sweatshirt",
     category: "kid",
     image: p31_img,
-    new_price: 85.0,
+    new_price: 84.0,
     old_price: 120.5,
   },
   {
@@ -297,7 +297,7 @@ let all_product = [
     name: "Boys Orange Colourblocked Hooded Sweatshirt",
     category: "kid",
     image: p33_img,
-    new_price: 85.0,
+    new_price: 90.0,
     old_price: 120.5,
   },
   {

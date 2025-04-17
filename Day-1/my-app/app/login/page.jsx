@@ -7,7 +7,6 @@ import React, { useEffect, useState } from 'react'
 const Login = () => {
 
     const router = useRouter()
-
     const [email, setEmail] = useState('')
     const [password, setPassword] = useState('')
     const [user, setUser] = useState(null)
@@ -30,13 +29,12 @@ const Login = () => {
         if (findUser) {
             alert('Login successfully')
             localStorage.setItem('user', JSON.stringify(findUser))
-            router.push("/")
+            router.push("/product")
         } else {
             alert('Wrong username and password!!')
             router.push("/login")
             setEmail("")
             setPassword("")
-
         }
 
     }
